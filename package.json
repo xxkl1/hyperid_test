@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "serve": "webpack serve"
+    "dev": "webpack serve"
   },
   "keywords": [],
   "author": "",
@@ -15,8 +15,5 @@
     "webpack": "^5.38.1",
     "webpack-cli": "^4.7.2",
     "webpack-dev-server": "^4.11.1"
-  },
-  "stackblitz": {
-    "startCommand": "npm run serve"
   }
 }
